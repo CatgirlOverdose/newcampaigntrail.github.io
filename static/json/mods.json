@@ -311,6 +311,14 @@
       "image": "/static/mod_icons/1888RR.png"
     },
     {
+      "label": "1888 Hyperion",
+      "value": "1888 Hyperion",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+    {
       "label": "1892",
       "value": "1892",
       "tags": [
