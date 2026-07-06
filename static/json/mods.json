@@ -1495,6 +1495,13 @@
       ],
       "image": "/static/mod_icons/ps.png"
     },
+	{
+      "label": "1988 Robertson",
+      "value": "1988r",
+      "tags": [
+        "althist"
+      ]
+    },
     {
       "label": "1990 North Carolina Senate",
       "value": "1990 NC Senate",
